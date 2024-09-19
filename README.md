@@ -4,11 +4,9 @@ I'm a passionate Data Science Enthusiast with a strong focus on Python programmi
 I love solving challenging problems and have worked on various projects to hone my skills in data analysis and visualization.
 
 🔧 Skills:
-
-Programming: Python (pandas, numpy, matplotlib), SQL, Excel
-
-Tools: Jupyter Notebooks, Git
-
+Python (pandas, numpy, matplotlib), SQL, Excel.
+Other: HTML, CSS, JavaScript (Intermediate level)
+Tools: Visual Studio Code, Jupyter Notebooks, Git
 OS: Windows, Linux
 
 🚀 Projects:

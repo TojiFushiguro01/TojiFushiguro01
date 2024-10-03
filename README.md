@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Harsh Verma
 
-I'm a passionate Data Analyst Enthusiast with a strong focus on Python programming, especially using libraries like pandas, numpy, and matplotlib. 
-I love solving challenging problems and have worked on various projects to hone my skills in data analysis and visualization.
+I'm a Dedicated Data Analyst Enthusiast with a strong focus on Python programming and its core libraries like Pandas, NumPy, and Matplotlib. My expertise extends to SQL and Excel, where I enjoy solving complex data problems and delivering insightful visualizations. I've worked on a range of projects that reflect my growing proficiency in data analysis.
 
 🔧 Skills:
 Python (pandas, numpy, matplotlib), SQL, Excel.<br>

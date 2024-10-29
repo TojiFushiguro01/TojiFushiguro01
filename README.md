@@ -4,16 +4,15 @@ I'm a Dedicated Data Analyst Enthusiast with a strong focus on Python programmin
 
 🔧 Skills:
 Python (pandas, numpy, matplotlib), SQL, Excel.<br>
-Other: HTML, CSS, JavaScript (Intermediate level)<br>
 Tools: Visual Studio Code, Jupyter Notebooks, Git<br>
-OS: Windows, Linux
+OS: Windows
 
 🚀 Projects:
 1. Quiz Game
 2. Rock-Paper-Scissors Game
 3. Number Guessing Game
 4. Desktop Notifiers
-5. Odin-Recipes Webpage
+5. 
 
 🌱 Current Focus:
 Exploring advanced data science techniques and machine learning.
